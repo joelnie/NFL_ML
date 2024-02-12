@@ -1,1 +1,1 @@
-# NFL_ML
+# Forecasting NFL teams' season win totals
